@@ -1,5 +1,5 @@
 # Aleh Pashuk
-![me](https://vk.com/olegpashuk?z=photo114813191_456241327%2Falbum114813191_0%2Frev)
+![me](https://pp.userapi.com/c841429/v841429734/25fa4/H19YS93C1xE.jpg)
 
 ## Contacts
 - mobile phone: +375 29 347-46-90
@@ -24,7 +24,7 @@ It turned out to be very pleasant, to create something that you can use later on
 - [tic-tac-toe](https://cloud.mail.ru/public/ARjS/mjDZtfeyo)
 - [DEATH-PONG](https://cloud.mail.ru/public/LJPg/nNuPrA8K5)
 
-> Делфи проекты запускать через .exe files.
+> Delfi projects run through .exe files.
 
 ## Education
 I graduated from a technical secondary education as a telecommunications engineer at the Belarusian State Academy of Communications. Currently studying at the same academy at the highest level.
