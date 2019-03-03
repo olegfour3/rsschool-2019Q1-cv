@@ -1,5 +1,5 @@
 # Aleh Pashuk
-![me](https://pp.userapi.com/c841429/v841429734/25fa4/H19YS93C1xE.jpg)
+![me](https://pp.userapi.com/c841429/v841429734/25fa4/H19YS93C1xE.jpg){:width="250px"}
 
 ## Contacts
 - mobile phone: +375 29 347-46-90
