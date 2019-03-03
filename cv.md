@@ -1,5 +1,4 @@
 # Aleh Pashuk
-![me](https://pp.userapi.com/c841429/v841429734/25fa4/H19YS93C1xE.jpg){:width="250px"}
 
 ## Contacts
 - mobile phone: +375 29 347-46-90
@@ -31,3 +30,6 @@ I graduated from a technical secondary education as a telecommunications enginee
 
 ## English level
 My English level is approximately A2.
+
+## My Photo
+![me](https://pp.userapi.com/c841429/v841429734/25fa4/H19YS93C1xE.jpg)
